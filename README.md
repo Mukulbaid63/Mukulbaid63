@@ -32,7 +32,7 @@
 <br />
 <br />
 
-[(https://raw.githubusercontent.com/Mukulbaid63/praveenscience/master/dino.gif)]
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
 
 

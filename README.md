@@ -32,6 +32,8 @@
 <br />
 <br />
 
+[(https://raw.githubusercontent.com/Mukulbaid63/praveenscience/master/dino.gif)]
+
 
 
 <details>
@@ -51,8 +53,7 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mukulbaid63&show_icons=true&hide_border=true" />
 
 </details>
-![Dino](https://raw.githubusercontent.com/Mukulbaid63/praveenscience/master/dino.gif)
-</br>
+
 [twitter]: https://twitter.com/MukulBaid1
 [instagram]: https://instagram.com/baidmukul
 [linkedin]: https://linkedin.com/in/mukulbaid63

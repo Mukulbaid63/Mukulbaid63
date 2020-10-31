@@ -52,7 +52,7 @@
 
 </details>
 ![Dino](https://raw.githubusercontent.com/Mukulbaid63/praveenscience/master/dino.gif)
-
+</br>
 [twitter]: https://twitter.com/MukulBaid1
 [instagram]: https://instagram.com/baidmukul
 [linkedin]: https://linkedin.com/in/mukulbaid63

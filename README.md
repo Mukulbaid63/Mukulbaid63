@@ -52,6 +52,7 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mukulbaid63&show_icons=true&hide_border=true" />
 
 </details>
+
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
 

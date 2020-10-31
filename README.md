@@ -2,7 +2,7 @@
 
 
 ## I'm a Student, Developer, Mentor and a Geek!!
-![Muddhit](https://drive.google.com/file/d/1z2fh34lukouy0a8JecvEkpZ4HqqrTgke/view?usp=sharing)
+[<img align="left" alt="Muddhit" src="https://drive.google.com/file/d/1z2fh34lukouy0a8JecvEkpZ4HqqrTgke/view?usp=sharing" />]
 
 
 

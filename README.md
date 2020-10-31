@@ -2,7 +2,7 @@
 
 
 ## I'm a Student, Developer, Mentor and a Geek!!
-![Muddhit](https://www.canva.com/design/DAEMNNTUDLE/NT3Mm6EPdGj4UVbgya6DFw/view?utm_content=DAEMNNTUDLE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Muddhit](https://drive.google.com/file/d/1z2fh34lukouy0a8JecvEkpZ4HqqrTgke/view?usp=sharing)
 
 
 

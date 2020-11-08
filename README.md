@@ -3,7 +3,7 @@
 
 ## I'm a Student, Developer, Mentor and a Geek!!
 
-![Muddhit](https://raw.githubusercontent.com/Mukulbaid63/Mukulbaid63/master/mit.gif)
+![MuddhitBaid](https://raw.githubusercontent.com/Mukulbaid63/Mukulbaid63/master/mit.gif)
 
 ### Connect with me:
 

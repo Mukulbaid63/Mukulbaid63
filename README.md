@@ -38,6 +38,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#317](https://github.com/sanscript-tech/hacking-tools-scripts/pull/261) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
+1. 🎉 Merged PR [#314](https://github.com/sanscript-tech/hacking-tools-scripts/pull/227) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
 1. 🎉 Merged PR [#261](https://github.com/sanscript-tech/hacking-tools-scripts/pull/261) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
 1. 🎉 Merged PR [#227](https://github.com/sanscript-tech/hacking-tools-scripts/pull/227) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
 1. 🎉 Merged PR [#206](https://github.com/sanscript-tech/hacking-tools-scripts/pull/206) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)

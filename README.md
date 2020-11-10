@@ -57,6 +57,7 @@
   <a href="https://github.com/Mukulbaid63">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukulbaid63&layout=compact" align="center"/>
 </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mukulbaid63" alt="harshcsper" /> </p>
 </details>
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)

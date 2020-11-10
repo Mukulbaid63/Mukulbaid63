@@ -58,6 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukulbaid63&layout=compact" align="center"/>
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mukulbaid63" alt="harshcsper" /> </p>
+![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Mukulbaid63&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 </details>
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)

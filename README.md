@@ -46,6 +46,7 @@
 <!--END_SECTION:activity-->
 
 </details>
+
 <details>
 <summary>:zap: GitHub Stats</summary>
 
@@ -54,6 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukulbaid63&layout=compact" align="center"/>
 </a>
 </details>
+
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
   

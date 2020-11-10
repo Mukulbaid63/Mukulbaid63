@@ -30,13 +30,14 @@
 
 <br />
 <br />
-
+<details>
+<summary>:zap: GitHub Stats</summary>
 
  <img align="left" alt="Muddhit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mukulbaid63&show_icons=true&hide_border=true" />
   <a href="https://github.com/Mukulbaid63">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukulbaid63&layout=compact" align="center"/>
 </a>
-
+</details>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -55,8 +56,7 @@
 </details>
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
-  <summary>:zap: GitHub Stats</summary>
-
+  
  
 
 

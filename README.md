@@ -35,6 +35,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#376](https://github.com/sanscript-tech/hacking-tools-scripts/pull/376) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
+1. 🎉 Merged PR [#374](https://github.com/sanscript-tech/hacking-tools-scripts/pull/374) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
 1. 🎉 Merged PR [#329](https://github.com/sanscript-tech/hacking-tools-scripts/pull/329) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
 1. 🎉 Merged PR [#19](https://github.com/sanscript-tech/Sanscript-Tech.github.io/pull/19) in [sanscript-tech/Sanscript-Tech.github.io](https://github.com/sanscript-tech/Sanscript-Tech.github.io)
 1. 🎉 Merged PR [#317](https://github.com/sanscript-tech/hacking-tools-scripts/pull/317) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
@@ -43,8 +45,7 @@
 1. 🎉 Merged PR [#261](https://github.com/sanscript-tech/hacking-tools-scripts/pull/261) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
 1. 🎉 Merged PR [#227](https://github.com/sanscript-tech/hacking-tools-scripts/pull/227) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
 1. 🎉 Merged PR [#206](https://github.com/sanscript-tech/hacking-tools-scripts/pull/206) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
-2. 🎉 Merged PR [#196](https://github.com/sanscript-tech/hacking-tools-scripts/pull/196) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
-3. 🎉 Merged PR [#154](https://github.com/sanscript-tech/hacking-tools-scripts/pull/154) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
+
 <!--END_SECTION:activity-->
 
 </details>

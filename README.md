@@ -5,7 +5,7 @@
 
 ![MuddhitBaid](https://raw.githubusercontent.com/Mukulbaid63/Mukulbaid63/master/mit.gif)
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="Muddhit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Muddhit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

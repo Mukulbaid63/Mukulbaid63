@@ -10,6 +10,8 @@
 [<img align="left" alt="Muddhit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Muddhit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Muddhit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Muddhit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
 
 <br />
 
@@ -70,6 +72,7 @@
 
 [twitter]: https://twitter.com/MukulBaid1
 [instagram]: https://instagram.com/baidmukul
+[gmail]:mailto:mukulbaid63@gmail.com
 [linkedin]: https://linkedin.com/in/mukulbaid63
 [webdevplaylist]:https://github.com/Mukulbaid63
 [jsplaylist]: https://github.com/Mukulbaid63

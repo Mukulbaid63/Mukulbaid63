@@ -42,8 +42,6 @@
 1. 🎉 Merged PR [#374](https://github.com/sanscript-tech/hacking-tools-scripts/pull/374) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
 1. 🎉 Merged PR [#329](https://github.com/sanscript-tech/hacking-tools-scripts/pull/329) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
 1. 🎉 Merged PR [#19](https://github.com/sanscript-tech/Sanscript-Tech.github.io/pull/19) in [sanscript-tech/Sanscript-Tech.github.io](https://github.com/sanscript-tech/Sanscript-Tech.github.io)
-1. 🎉 Merged PR [#317](https://github.com/sanscript-tech/hacking-tools-scripts/pull/317) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
-
 
 <!--END_SECTION:activity-->
 

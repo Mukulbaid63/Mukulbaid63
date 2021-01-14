@@ -53,7 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukulbaid63&layout=compact" align="center"/>
 
 </details>
-<img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukulbaid63&show_icons=true&locale=en&layout=compact&line_height=0" />
+<img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukulbaid63&show_icons=true&locale=en&layout=compact&line_height=0" />
 
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)

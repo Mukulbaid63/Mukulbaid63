@@ -1,7 +1,7 @@
 ### Hi there, I'm Muddhit 👋
 
 
-## I'm a Student, Developer, Mentor and a Geek!!
+## I'm a Software Engineer, Mentor and a Geek!!
 
 ![MuddhitBaid](https://raw.githubusercontent.com/Mukulbaid63/Mukulbaid63/master/mit.gif)
 

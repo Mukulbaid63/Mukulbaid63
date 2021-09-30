@@ -33,18 +33,7 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#394](https://github.com/sanscript-tech/hacking-tools-scripts/pull/394) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
 
-
-
-
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
 <summary>:zap: GitHub Stats</summary>

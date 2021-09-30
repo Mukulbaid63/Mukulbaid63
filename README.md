@@ -38,7 +38,7 @@
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#394](https://github.com/sanscript-tech/hacking-tools-scripts/pull/394) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
-1. 🎉 Merged PR [#376](https://github.com/sanscript-tech/hacking-tools-scripts/pull/376) in [sanscript-tech/hacking-tools-scripts](https://github.com/sanscript-tech/hacking-tools-scripts)
+
 
 
 

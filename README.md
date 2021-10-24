@@ -37,8 +37,7 @@
 
 <p> <img align="left" alt="Muddhit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mukulbaid63&show_icons=true&hide_border=true" /></p>
 <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukulbaid63&show_icons=true&locale=en&layout=compact&line_height=0" />
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukulbaid63&layout=compact" align="center"/></p>
-
+<div class="ant-card-body"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukulbaid63&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="Mukulbaid63" style="height: 100%; width: 100%;"></div>
 </details>
 
 

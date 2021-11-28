@@ -3,9 +3,10 @@
 
 ## I'm a Software Engineer, Mentor and a Geek!!
 
-### Subscribe to my content here: <a href='https://www.muddhit.me/'>My Desk</a>
-
 ![MuddhitBaid](https://raw.githubusercontent.com/Mukulbaid63/Mukulbaid63/master/mit.gif)
+
+
+### Subscribe to my content here: <a href='https://www.muddhit.me/'>My Desk</a>
 
 ## Connect with me:
 
